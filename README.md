@@ -1,2 +1,2 @@
 # CECS-277
-These are all the projects I did in the course.....however there may be some bugs.
+These are all the projects I did in this course.....however there may be some bugs.
